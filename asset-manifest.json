@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/visualize-wpm/static/css/main.9085845c.chunk.css",
+    "main.js": "/visualize-wpm/static/js/main.b1202380.chunk.js",
+    "main.js.map": "/visualize-wpm/static/js/main.b1202380.chunk.js.map",
+    "runtime-main.js": "/visualize-wpm/static/js/runtime-main.f5014472.js",
+    "runtime-main.js.map": "/visualize-wpm/static/js/runtime-main.f5014472.js.map",
+    "static/css/2.31461e4f.chunk.css": "/visualize-wpm/static/css/2.31461e4f.chunk.css",
+    "static/js/2.32231560.chunk.js": "/visualize-wpm/static/js/2.32231560.chunk.js",
+    "static/js/2.32231560.chunk.js.map": "/visualize-wpm/static/js/2.32231560.chunk.js.map",
+    "index.html": "/visualize-wpm/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/visualize-wpm/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.9085845c.chunk.css.map": "/visualize-wpm/static/css/main.9085845c.chunk.css.map",
+    "static/js/2.32231560.chunk.js.LICENSE.txt": "/visualize-wpm/static/js/2.32231560.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5014472.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.32231560.chunk.js",
+    "static/css/main.9085845c.chunk.css",
+    "static/js/main.b1202380.chunk.js"
+  ]
+}
