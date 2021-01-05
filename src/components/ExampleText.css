@@ -1,4 +1,11 @@
 .example-text {
-  flex: 5 0 0;
+  flex: 4 0 0;
   font-family: "Maitree", serif;
+  font-size: large;
+}
+
+button:active,
+button:focus {
+  border-style: none;
+  outline: none;
 }

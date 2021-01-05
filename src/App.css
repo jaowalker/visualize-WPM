@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Karla:wght@600&family=Maitree&family=Overlock&display=swap");
 
+html {
+  box-sizing: border-box;
+  background-color: #cccccc;
+}
+
 h1 {
   font-family: "Karla", sans-serif;
   letter-spacing: -1px;

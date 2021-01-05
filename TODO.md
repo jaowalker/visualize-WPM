@@ -1,12 +1,9 @@
 # TODO Items
 
 - [x] Phase 1: Focusing solely on functionality.
-- [ ] Phase 2: Make it look half decent
+- [x] Phase 2: Make it look half decent
 
 ### Todo
-
-- [ ] Padding
-- [ ] Color
 
 ### Done ✓
 
@@ -24,3 +21,5 @@
 - [x] Decide on static or dynamic demo text
 - [x] Break up text
 - [x] Font Selection
+- [x] Padding
+- [x] Color

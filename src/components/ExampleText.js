@@ -13,7 +13,10 @@ const wpmToMspc = (wpm) => 12000 / wpm;
 const SkipButton = () => {
   const skip = useSkip();
   return (
-    <button className="button-reset" onClick={skip}>
+    <button
+      className="button-reset mb2 green bg-navy bn br3 pa2 grow"
+      onClick={skip}
+    >
       {"Skip"}
     </button>
   );
@@ -22,7 +25,10 @@ const SkipButton = () => {
 const RewindButton = () => {
   const rewind = useRewind();
   return (
-    <button className="button-reset" onClick={rewind}>
+    <button
+      className="button-reset mt2 green bg-navy bn br3 pa2 grow"
+      onClick={rewind}
+    >
       {"Restart"}
     </button>
   );
@@ -39,10 +45,10 @@ const ExampleText = ({ wpm }) => {
   ];
 
   return (
-    <div className="example-text">
+    <div className="example-text pl2 pr2 mr4">
       <WindupChildren>
         <SkipButton />
-        <div key={milisecondsPerCharacter}>
+        <div key={milisecondsPerCharacter} className="bg-white pa2 br3">
           <Pace getPace={(char) => milisecondsPerCharacter}>
             <div>{exampleText[0]}</div>
             <br />
@@ -52,7 +58,7 @@ const ExampleText = ({ wpm }) => {
             <br />
             <div>{exampleText[3]}</div>
             <br />
-            {"from "}
+            {"from the "}
             <a href="https://en.wikipedia.org/wiki/Words_per_minute">
               {"Wikipedia page on WPM"}
             </a>

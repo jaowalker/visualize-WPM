@@ -13,12 +13,17 @@ const NotableSpeeds = ({ onClick }) => {
 
   const notableSpeeds = labelValuePairs.map((speed) => {
     return (
-      <li value={speed.wpm} onClick={onClick} key={speed.wpm}>
+      <li
+        className="green bg-navy br3 pa3 tl mt3 grow"
+        value={speed.wpm}
+        onClick={onClick}
+        key={speed.wpm}
+      >
         {`${speed.label}: ${speed.wpm}`}
       </li>
     );
   });
-  return <ul className="notable-speeds list">{notableSpeeds}</ul>;
+  return <ul className="notable-speeds list mr3">{notableSpeeds}</ul>;
 };
 
 export default NotableSpeeds;
