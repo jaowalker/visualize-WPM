@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/ExampleText.css","webpack://src/components/NotableSpeeds.css"],"names":[],"mappings":"AAAA,cACE,QACF,CCFA,gBACE,QACF","file":"main.9085845c.chunk.css","sourcesContent":[".example-text {\n  flex: 5 0 0;\n}\n",".notable-speeds {\n  flex: 1 0 0;\n}\n"]}
