@@ -4,8 +4,11 @@ import "./NotableSpeeds.css";
 //  Used to set WPM the site is running based on notable/historic examples.
 const NotableSpeeds = ({ onClick }) => {
   const labelValuePairs = [
-    { label: "Average Speed in 2020", wpm: 60 },
-    { label: "Average Speed in 1960", wpm: 30 },
+    { label: "'Hunt and Peck' typist", wpm: 27 },
+    { label: "Average Speed in 1990", wpm: 32 },
+    { label: "Low threshold for professional typist", wpm: 50 },
+    { label: "Stenotype typists as fast as", wpm: 226 },
+    { label: "Guiness world record holder", wpm: 360 },
   ];
 
   const notableSpeeds = labelValuePairs.map((speed) => {
