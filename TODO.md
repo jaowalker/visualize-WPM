@@ -1,10 +1,13 @@
 # TODO Items
 
-Phase 1: Focusing solely on functionality. Visual aspect will be the next phase.
+- [x] Phase 1: Focusing solely on functionality.
+- [ ] Phase 2: Make it look half decent
 
 ### Todo
 
-- [ ] Make site look better
+- [ ] Padding
+- [ ] Font Selection
+- [ ] Color
 
 ### Done ✓
 
@@ -20,3 +23,4 @@ Phase 1: Focusing solely on functionality. Visual aspect will be the next phase.
 - [x] Add restart button
 - [x] Add some sort of a fun 'about' blurb
 - [x] Decide on static or dynamic demo text
+- [x] Break up text
