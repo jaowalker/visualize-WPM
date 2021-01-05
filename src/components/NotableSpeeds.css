@@ -1,3 +1,7 @@
 .notable-speeds {
   flex: 1 0 0;
 }
+
+li {
+  font-family: "Overlock", cursive;
+}

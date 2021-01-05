@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@600&family=Maitree&family=Overlock&display=swap");
+
+h1 {
+  font-family: "Karla", sans-serif;
+  letter-spacing: -1px;
+}
+
+h2 {
+  font-family: "Overlock", cursive;
+}

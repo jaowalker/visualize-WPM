@@ -6,7 +6,6 @@
 ### Todo
 
 - [ ] Padding
-- [ ] Font Selection
 - [ ] Color
 
 ### Done ✓
@@ -24,3 +23,4 @@
 - [x] Add some sort of a fun 'about' blurb
 - [x] Decide on static or dynamic demo text
 - [x] Break up text
+- [x] Font Selection
