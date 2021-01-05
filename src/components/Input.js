@@ -5,10 +5,13 @@ const Input = ({ wpm, onChange }) => {
   return (
     <input
       className="input-reset"
+      type="number"
       size="1"
-      placeholder={wpm}
+      value={wpm}
       onChange={onChange}
       maxLength="3"
+      min="1"
+      max="999"
     ></input>
   );
 };
